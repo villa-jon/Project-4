@@ -1,20 +1,24 @@
 # Project-4
-#Description
+##Description
+
 This project is scaffolded so that you can build a React frontend and Rails backend together, and easily deploy them to Heroku.
 
-#Motivation
+##Motivation
+
 This app was partly inspired by how the much loved website Tumblr. With that said, this app is very similar to Tumblr, but with some Twitter components added along with it. Personally, I was not a fan of how some website components of Tumblr ran and wanted to combine the like aspect of Twitter and the style and look of Tumblr.
 
 As seen here, This has the look and style of Tumblr, but allows the user to hover over and see who liked what post. For this project, I used the project template that was provided for me from FlatIron School.
 
-#Requirements
+##Requirements
+
 Ruby 2.7.4
 NodeJS (v16), and npm
 Heroku CLI
 Postgresql
 See Environment Setup below for instructions on installing these tools if you don't already have them.
 
-#Setup
+##Setup
+
 Start by cloning (not forking) the project template repository and removing the remote:
 
 $ git clone git@github.com:learn-co-curriculum/project-template-react-rails-api.git your-project-name
